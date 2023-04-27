@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @Wifqiazmi
-- 👀 I’m interested in UI UX Designer and front end developer 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 # 💫 About Me:
-🔭 I’m currently working on an ATM locator Application<br>🌱 I’m also learning NodeJs, React, Python, Perl and Bash<br>👨‍💻 All of my projects are available at github.com/techvaness<br>💬 Ask me questions about HTML, CSS, JS, Wordpress.<br>⚡ Fun fact I am down to earth and entertaining
+🔭 I’m currently working on an ATM locator Application<br>🌱 I’m also learning NodeJs, React, Python, Perl and Bash<br>👨‍💻 All of my projects are available at github.com/Wifqiazmi<br>💬 Ask me questions about HTML, CSS, JS, Wordpress.<br>⚡ Fun fact I am down to earth and entertaining
 
 
 ## 🌐 Socials:
