@@ -1,8 +1,8 @@
 # 💫 About Me:
 
 👨‍💻 I am a beginner Front-End Developer who is always excited to learn new technologies and continue to grow <br>
-🌱 You can check out my projects that I have worked on at github.com/. <br>
-⚡ Fun fact: I am known as a friendly and enjoyable person to communicate with.
+🌱 You can check out my projects that I have worked on at github.com/Wifqiazmi <br>
+⚡ Fun fact : I am known as a friendly and enjoyable person to communicate with.
 
 
 ## 🌐 Socials:
