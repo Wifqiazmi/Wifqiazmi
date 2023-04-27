@@ -1,9 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on an ATM locator Application<br>🌱 I’m also learning NodeJs, React, Python, Perl and Bash<br>👨‍💻 All of my projects are available at github.com/Wifqiazmi<br>💬 Ask me questions about HTML, CSS, JS, Wordpress.<br>⚡ Fun fact I am down to earth and entertaining
+
+👨‍💻 I am a beginner Front-End Developer who is always excited to learn new technologies and continue to grow 
+🌱 You can check out my projects that I have worked on at github.com/. <br>
+⚡ Fun fact: I am known as a friendly and enjoyable person to communicate with.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wifqiazmi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wifqi-azmi-bb8815221).
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wifqiazmi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wifqi-azmi-bb8815221)
 
 # 💻 Tech Stack:
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
