@@ -18,22 +18,22 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-### Hallo 
-These are my current GitHub stats, and will continue to grow.<br>
-### Github Statistic
-<p align="left">
-<a href="https://github.com/rifkialdi">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifkialdi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifkialdi&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=techvaness&icon=0&color=9)](https://visitcount.itsvg.in)
+
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Wifqiazmi">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wifqiazmi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wifqiazmi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://trakteer.id/wifqiazmi/tip?open=true) 
