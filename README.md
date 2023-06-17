@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Wifqi Azmi</h1> 
 
-💫 About Me :
+# 💫 About Me :
 👨‍💻 I am a beginner Front-End Developer who is always excited to learn new technologies and continue to grow <br>
 🌱 You can check out my projects that I have worked on at github.com/Wifqiazmi <br>
 ⚡ Fun fact: I am known as a friendly and pleasant person.
