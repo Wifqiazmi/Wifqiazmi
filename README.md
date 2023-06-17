@@ -18,6 +18,15 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
+### Hallo 
+These are my current GitHub stats, and will continue to grow.<br>
+### Github Statistic
+<p align="left">
+<a href="https://github.com/rifkialdi">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifkialdi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifkialdi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 ### ✍️ Random Dev Quote
