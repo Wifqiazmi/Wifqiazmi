@@ -4,6 +4,9 @@
 🌱 You can check out my projects that I have worked on at github.com/Wifqiazmi <br>
 ⚡ Fun fact: I am known as a friendly and pleasant person.
 
+---
+[![](https://visitcount.itsvg.in/api?id=techvaness&icon=0&color=9)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wifqiazmi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wifqi-azmi-bb8815221)
