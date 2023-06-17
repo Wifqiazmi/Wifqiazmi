@@ -7,6 +7,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=techvaness&icon=0&color=9)](https://visitcount.itsvg.in)
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wifqiazmi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wifqi-azmi-bb8815221)
 
 # 💻 Tech Stack:
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -18,13 +20,10 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wifqiazmi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wifqi-azmi-bb8815221)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Github Statistic
+### ➡️ Github Statistic
 <p align="left">
 <a href="https://github.com/Wifqiazmi">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wifqiazmi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
