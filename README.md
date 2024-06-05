@@ -1,6 +1,8 @@
 <h2 align="center">  
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wifqi+Azmi!;" /> 
   </h2>
+  
+![bedroom](https://user-images.githubusercontent.com/79355239/143467976-43e524a2-c3cd-47cb-a3e5-6a8ed0bc4a69.gif)
 
 # 💫 About Me
 
